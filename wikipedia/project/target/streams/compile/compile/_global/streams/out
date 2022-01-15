@@ -1,0 +1,49 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/MOOCSettings.scala:35:23: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    parallelExecution in Test := false,[0m
+[0m[[0m[33mwarn[0m] [0m[0m                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:38:17: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (scalafix in Compile).toTask(" --check").dependsOn(compile in Compile)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:38:66: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (scalafix in Compile).toTask(" --check").dependsOn(compile in Compile)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:44:11: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    (test in Test) := {[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:46:13: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (test in Test).value[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:53:18: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    connectInput in run := true,[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:69:50: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m      val binaries = (packageBinWithoutResources in Compile).value[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:68:41: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m      val sources = (packageSourcesOnly in Compile).value[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:70:10: method zip in object IO is deprecated (since 1.3.2): Please specify whether to use a static timestamp[0m
+[0m[[0m[33mwarn[0m] [0m[0m      IO.zip(Seq(sources -> "sources.zip", binaries -> "binaries.jar"), submission)[0m
+[0m[[0m[33mwarn[0m] [0m[0m         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:73:24: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    artifactClassifier in packageSourcesOnly := Some("sources"),[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:74:14: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    artifact in (Compile, packageBinWithoutResources) ~= (art => art.withName(art.name + "-without-resources"))[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:81:17: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m      (mappings in (Compile, packageBin)).value.filterNot { case (_, path) => relativePaths.contains(path) }[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:80:101: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m        (unmanagedResources in Compile).value.flatMap(Path.relativeTo((unmanagedResourceDirectories in Compile).value)(_))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:80:29: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m        (unmanagedResources in Compile).value.flatMap(Path.relativeTo((unmanagedResourceDirectories in Compile).value)(_))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:133:37: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val jar = (packageSubmissionZip in Compile).value[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/project/StudentTasks.scala:149:37: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val jar = (packageSubmissionZip in Compile).value[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m16 warnings found[0m

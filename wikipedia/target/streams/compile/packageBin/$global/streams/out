@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/bigdata-wikipedia_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaArticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaArticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaRankingInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaRankingInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/wikipedia.dat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/wikipedia.dat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaArticle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaArticle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaRanking.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaRanking.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/WikipediaRanking$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/wikipedia/target/scala-2.12/classes/wikipedia/WikipediaRanking$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

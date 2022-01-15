@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/bigdata-timeusage_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/atussum.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/atussum.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsage$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsage$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsage$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsage$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsage$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsage$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsageInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsageInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsageRow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsageRow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsageRow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsageRow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/timeusage/target/scala-2.12/classes/timeusage/TimeUsage.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

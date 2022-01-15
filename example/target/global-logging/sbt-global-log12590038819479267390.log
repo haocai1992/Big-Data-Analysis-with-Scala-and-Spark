@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(submit caihao.snake@gmail.com hnS5i2uL48o7Auap, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: submit[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mRunning scalafix on 2 Scala sources[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to submit "example" assignment in "progfun1" course[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing:[0m
+[0m[[0m[0minfo[0m] [0m[0m- email: caihao.snake@gmail.com[0m
+[0m[[0m[0minfo[0m] [0m[0m- submit token: hnS5i2uL48o7Auap[0m
+[0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully connected to Coursera. (Status 201)[0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mAssignment submitted successfully![0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mYou can see how you scored by going to:[0m
+[0m[[0m[0minfo[0m] [0m[0mhttps://www.coursera.org/learn/progfun1/programming/I6L8m/[0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mand clicking on "My Submission".[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Jan. 3, 2022, 1:27:14 p.m.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

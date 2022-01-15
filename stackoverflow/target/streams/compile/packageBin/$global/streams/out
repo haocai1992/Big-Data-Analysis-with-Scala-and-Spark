@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/bigdata-stackoverflow_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/StackOverflow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/StackOverflow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/StackOverflowInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/StackOverflowInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/Posting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/Posting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/stackoverflow.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/stackoverflow.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/Posting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/Posting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/StackOverflow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/StackOverflow.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

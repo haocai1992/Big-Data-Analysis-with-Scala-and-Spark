@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/src/main/resources/stackoverflow,/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/src/main/resources/stackoverflow/stackoverflow.csv,/home/caihao/Desktop/spark_test/big_data_with_scala_and_spark_Coursera/stackoverflow/target/scala-2.12/classes/stackoverflow/stackoverflow.csv)[0m

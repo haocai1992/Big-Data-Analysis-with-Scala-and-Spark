@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/caihao/Desktop/spark_test/example/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.1. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 7.99s.[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/caihao/Desktop/spark_test/example/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is three (0pts)?[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mintNotZero throws an exception if its argument is 0[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers-2 (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mmax of a few numbers-1 (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mdetails why one plus one is not three (0pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers-2 (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36mone plus one is two (0pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0mTest example.[33mListsSuite[0m.[36msum of a few numbers-1 (10pts)[0m started[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 10 total, 0.167s[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 10, Failed 0, Errors 0, Passed 10[0m
+[0m[[0m[0minfo[0m] [0m[0mRunning scalafix on 2 Scala sources[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 13 s, completed Jan. 3, 2022, 1:25:59 p.m.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
