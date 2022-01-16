@@ -23,6 +23,9 @@ Recommended background: You should have at least one year programming experience
 
 * **Date Completed**: Jan 10, 2022
 
+## Certificate
+![](big-data-analysis-with-scala-and-spark-certificate.png)
+
 ## Assignments
 
 ### Practice Programming Assignment: Example
