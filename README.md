@@ -69,3 +69,7 @@ Recommended background: You should have at least one year programming experience
 ## Note
 
 Resource files have to be unzipped for the code to work.
+
+## Disclaimer
+- Copyright of all materials in this repository belongs to EPFL and Coursera, and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
+- My quiz and assignment solutions are for reference only. Please do not copy any part of the code/answer directly.
