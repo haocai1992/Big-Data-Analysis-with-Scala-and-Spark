@@ -1,6 +1,6 @@
-# Big Data Analysis with Scala and Spark (Coursera)
-
 ![](big-data-scala-spark-banner.jpeg)
+
+# Big Data Analysis with Scala and Spark (Coursera)
 
 This repository contains my submitted assignments for the Coursera MOOC [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data/), given by École Polytechnique Fédérale de Lausanne (EPFL), and taught by Prof. Heather C. Miller.
 
